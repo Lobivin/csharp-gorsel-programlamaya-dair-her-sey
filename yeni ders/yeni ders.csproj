@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{314F953A-2271-49BB-9D95-11380E51D339}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>yeni_ders</RootNamespace>
+    <AssemblyName>yeni ders</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdSoyadEkleme.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdSoyadEkleme.Designer.cs">
+      <DependentUpon>AdSoyadEkleme.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FaktöriyelHesaplama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FaktöriyelHesaplama.Designer.cs">
+      <DependentUpon>FaktöriyelHesaplama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KareKökHesaplama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KareKökHesaplama.Designer.cs">
+      <DependentUpon>KareKökHesaplama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KullaniciAdi1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KullaniciAdi1.Designer.cs">
+      <DependentUpon>KullaniciAdi1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hareket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hareket.Designer.cs">
+      <DependentUpon>Hareket.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SezarSifresi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SezarSifresi.Designer.cs">
+      <DependentUpon>SezarSifresi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SayiTahmin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SayiTahmin.Designer.cs">
+      <DependentUpon>SayiTahmin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KarakterSinirlama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KarakterSinirlama.Designer.cs">
+      <DependentUpon>KarakterSinirlama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SayiAralariniHesaplama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SayiAralariniHesaplama.Designer.cs">
+      <DependentUpon>SayiAralariniHesaplama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AsalSayilar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AsalSayilar.Designer.cs">
+      <DependentUpon>AsalSayilar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KuraCekimi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KuraCekimi.Designer.cs">
+      <DependentUpon>KuraCekimi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CevreHesaplama.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CevreHesaplama.Designer.cs">
+      <DependentUpon>CevreHesaplama.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AnaMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AnaMenu.Designer.cs">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ZikirMatik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ZikirMatik.Designer.cs">
+      <DependentUpon>ZikirMatik.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HesapMakinesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HesapMakinesi.Designer.cs">
+      <DependentUpon>HesapMakinesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="HaliSaha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HaliSaha.Designer.cs">
+      <DependentUpon>HaliSaha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DogumTarihi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DogumTarihi.Designer.cs">
+      <DependentUpon>DogumTarihi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ListeYapma.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ListeYapma.Designer.cs">
+      <DependentUpon>ListeYapma.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VizeFinal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VizeFinal.Designer.cs">
+      <DependentUpon>VizeFinal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BasitHesapMakinasi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BasitHesapMakinasi.Designer.cs">
+      <DependentUpon>BasitHesapMakinasi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AdSoyadEkleme.resx">
+      <DependentUpon>AdSoyadEkleme.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FaktöriyelHesaplama.resx">
+      <DependentUpon>FaktöriyelHesaplama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KareKökHesaplama.resx">
+      <DependentUpon>KareKökHesaplama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KullaniciAdi1.resx">
+      <DependentUpon>KullaniciAdi1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hareket.resx">
+      <DependentUpon>Hareket.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SezarSifresi.resx">
+      <DependentUpon>SezarSifresi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SayiTahmin.resx">
+      <DependentUpon>SayiTahmin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KarakterSinirlama.resx">
+      <DependentUpon>KarakterSinirlama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SayiAralariniHesaplama.resx">
+      <DependentUpon>SayiAralariniHesaplama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AsalSayilar.resx">
+      <DependentUpon>AsalSayilar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KuraCekimi.resx">
+      <DependentUpon>KuraCekimi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CevreHesaplama.resx">
+      <DependentUpon>CevreHesaplama.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AnaMenu.resx">
+      <DependentUpon>AnaMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ZikirMatik.resx">
+      <DependentUpon>ZikirMatik.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HesapMakinesi.resx">
+      <DependentUpon>HesapMakinesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HaliSaha.resx">
+      <DependentUpon>HaliSaha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DogumTarihi.resx">
+      <DependentUpon>DogumTarihi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ListeYapma.resx">
+      <DependentUpon>ListeYapma.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VizeFinal.resx">
+      <DependentUpon>VizeFinal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BasitHesapMakinasi.resx">
+      <DependentUpon>BasitHesapMakinasi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir %281%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir %282%29.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tekrar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\images1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\zikir.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hesap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dogum.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\liste.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hareket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sayı.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\liste1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\oyunbitti.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\boyama2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\muslum.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ferdi.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\orhan.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\baris.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\neset.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\indir1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\kur.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Jerry.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ugur.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,76 @@
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\bin\Debug\yeni ders.exe.config
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\bin\Debug\yeni ders.exe
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\bin\Debug\yeni ders.pdb
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni ders.csproj.AssemblyReference.cache
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni ders.csproj.SuggestedBindingRedirects.cache
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.Form1.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.Form2.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.Properties.Resources.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni ders.csproj.GenerateResource.cache
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni ders.csproj.CoreCompileInputs.cache
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni ders.exe
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni ders.pdb
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.Form3.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.Form4.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.Form5.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.Form6.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.Form7.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\bin\Debug\yeni ders.exe.config
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\bin\Debug\yeni ders.exe
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\bin\Debug\yeni ders.pdb
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni ders.csproj.AssemblyReference.cache
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni ders.csproj.SuggestedBindingRedirects.cache
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.Properties.Resources.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni ders.csproj.GenerateResource.cache
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni ders.csproj.CoreCompileInputs.cache
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni ders.exe
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni ders.pdb
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.KarakterSinirlama.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.Hareket.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.SezarSifresi.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.SayiTahmin.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.SayiAralariniHesaplama.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.AsalSayilar.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.KuraCekimi.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.CevreHesaplama.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.AnaMenu.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.ZikirMatik.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.HesapMakinesi.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.HaliSaha.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.DogumTarihi.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.ListeYapma.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.VizeFinal.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.BasitHesapMakinasi.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.KullaniciAdi1.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.AdSoyadEkleme.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.FaktöriyelHesaplama.resources
+C:\Users\ERTUĞRUL\OneDrive\Masaüstü\Nesne Tabanlı Programlama Visual Studio\yeni ders\yeni ders\obj\Debug\yeni_ders.KareKökHesaplama.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\bin\Debug\yeni ders.exe.config
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\bin\Debug\yeni ders.exe
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\bin\Debug\yeni ders.pdb
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni ders.csproj.AssemblyReference.cache
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.AdSoyadEkleme.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.FaktöriyelHesaplama.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.KareKökHesaplama.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.KullaniciAdi1.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.Hareket.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.SezarSifresi.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.SayiTahmin.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.KarakterSinirlama.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.SayiAralariniHesaplama.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.AsalSayilar.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.KuraCekimi.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.CevreHesaplama.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.AnaMenu.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.ZikirMatik.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.HesapMakinesi.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.HaliSaha.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.DogumTarihi.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.ListeYapma.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.VizeFinal.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.BasitHesapMakinasi.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni_ders.Properties.Resources.resources
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni ders.csproj.GenerateResource.cache
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni ders.csproj.CoreCompileInputs.cache
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni ders.exe
+C:\Users\mertm\OneDrive\Masaüstü\yeni ders\yeni ders\obj\Debug\yeni ders.pdb
